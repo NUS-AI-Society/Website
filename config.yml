@@ -58,8 +58,8 @@ params:
 analytics:
   umami:
     enable: true
-    website_id: d4c6dd2f-c07c-422f-a873-923face01da8
-    url: https://eu.umami.is/websites/d4c6dd2f-c07c-422f-a873-923face01da8
+    website_id: 1f60f39b-a5c9-4600-be9e-7370b165ab46
+    url: https://eu.umami.is/websites/1f60f39b-a5c9-4600-be9e-7370b165ab46
 
   social:
     - name: GitHub
