@@ -39,15 +39,15 @@ menu:
       url: /archives
       weight: 6
 
-    - name: Monitor
-      url: https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli
-      weight: 7
+    # - name: Monitor
+    #   url: https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli
+    #   weight: 7
 params:
   brand: HOME
   avatarURL: /images/AISocietyLogo.jpg
   author: NUS AI Society
   authorDescription: A student club based in SoC
-  info: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacus nunc, tristique nec sodales in, pellentesque et ex.
+  info: We are NUS AI Society, we are working towards the goal of creating an AI community within the school of computing.
   favicon: /images/AISocietyLogo.jpg
   options:
     showDarkMode: true
@@ -58,8 +58,8 @@ params:
 analytics:
   umami:
     enable: true
-    website_id: 5dbd2909-0b93-4604-8aa7-3bb550709b6a
-    url: https://eu.umami.is/websites/5dbd2909-0b93-4604-8aa7-3bb550709b6a
+    website_id: d4c6dd2f-c07c-422f-a873-923face01da8
+    url: https://eu.umami.is/websites/d4c6dd2f-c07c-422f-a873-923face01da8
 
   social:
     - name: GitHub
