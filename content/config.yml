@@ -12,8 +12,8 @@ paginate: 10
 hasCJKLanguage: true
 copyright: "2023 Vangmay All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "Vangmay Sachan"
+  email: "Vangmay.sachan16@gmail.com"
 params:
   brand: HOME
   avatarURL: /images/AISocietyLogo.jpg

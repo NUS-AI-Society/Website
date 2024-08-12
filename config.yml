@@ -31,13 +31,13 @@ menu:
       url: /social
       weight: 4
 
-    - name: Tags
-      url: /tags
-      weight: 5
+    # - name: Tags
+    #   url: /tags
+    #   weight: 5
 
     - name: Archive
       url: /archives
-      weight: 6
+      weight: 5
 
     # - name: Monitor
     #   url: https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli

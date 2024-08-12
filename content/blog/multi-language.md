@@ -4,9 +4,13 @@ date: 2022-08-14T21:34:36+08:00
 tags: ["hugo", "ladder", "Tutorial"]
 series: ["how to create your blog"]
 featured: true
+draft: True
 ---
+
 This article is about multilingual support.
+
 <!--more-->
+
 - [Available Languages](#available-languages)
 - [Configure languages](#configure-languages)
 - [Translation File Example](#translation-file-example)
@@ -57,8 +61,6 @@ one = "Featured Posts"
 other = "Featured Posts"
 ```
 
-
-
 ```toml
 [blog]
 one = "文章"
@@ -92,4 +94,3 @@ other = "相关系列文章推荐"
 one = "推荐阅读"
 other = "推荐阅读"
 ```
-

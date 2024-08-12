@@ -4,9 +4,13 @@ date: 2022-08-19T21:34:36+08:00
 tags: ["hugo", "ladder", "Tutorial"]
 series: ["how to create your blog"]
 featured: true
+draft: True
 ---
+
 This article is about how to quickly install and use this theme.
+
 <!--more-->
+
 ## how to install
 
 Just click `Use this template` to create your blog site in https://github.com/guangzhengli/hugo-ladder-exampleSite

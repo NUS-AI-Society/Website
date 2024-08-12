@@ -2,6 +2,7 @@
 title: Videos
 date: 2013-12-25 00:19:15
 tags:
+draft: True
 ---
 
 This is a video test post.
@@ -13,7 +14,9 @@ This is a video test post.
 <br>
 
 ---
+
 <!--more-->
+
 ## Twitter Simple Shortcode
 
 {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
@@ -25,4 +28,3 @@ This is a video test post.
 ## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
-
